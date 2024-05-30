@@ -1,2 +1,1 @@
-# Andre Polidoro Aragao
-Quality Administrator pursuing a career in data analysis.
+#Quality Administrator pursuing a career in data analysis.
