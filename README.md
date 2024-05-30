@@ -1,4 +1,4 @@
-#Quality Administrator pursuing a career in data analysis.
+# Quality Administrator pursuing a career in data analysis.
 
 I am a dedicated professional with a strong background in the quality field. Currently enhancing my skills through a data skills Bootcamp and pursuing a BSc in Data Science.
 In my current position, I play a pivotal role in ensuring quality standards by inputting and analysing data sets and generating reports using Microsoft Excel.
