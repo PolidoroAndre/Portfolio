@@ -1,2 +1,2 @@
-# andrepolidoro.github.io
-Andre Polidoro Aragao - Portfolio
+# Andre Polidoro Aragao
+Quality Administrator pursuing a career in data analysis.
